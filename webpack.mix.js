@@ -1,3 +1,4 @@
+const { js } = require('laravel-mix');
 const mix = require('laravel-mix');
 
 /*
